@@ -10,7 +10,7 @@ This is all you need to get started building the Turtle Chomp game. :turtle:
 
 Click the badge below to create a codespace and start coding. :rocket:
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/j4ckofalltrades/shecodespaces-python)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/SheCodesAustralia/shecodespaces-python)
 
 ## Running the game
 
