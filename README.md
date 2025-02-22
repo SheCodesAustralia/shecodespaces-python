@@ -2,7 +2,7 @@
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-This repository contains a pre-configured codespace with Python 3.12, a lightweight desktop environment, and Visual Studio Code for the Web -- all accessible from a web browser.
+This repository contains a pre-configured codespace with the latest Python 3 version, a lightweight desktop environment, and Visual Studio Code for the Web -- all accessible from a web browser.
 
 This is all you need to get started building the Turtle Chomp game. :turtle:
 
